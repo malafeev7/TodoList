@@ -33,7 +33,7 @@ git clone <https://github.com/malafeev7/TodoList.git>
 
 2. Установите зависимости
 ```bash
-cd <TodoList>
+cd TodoList
 
 yarn install
 ```
